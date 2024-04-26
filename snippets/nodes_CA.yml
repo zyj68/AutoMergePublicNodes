@@ -69,7 +69,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: e89a3630-33e3-4b4f-a7c9-e85f0d2c55c2
+  uuid: a7e5f63a-4a45-42f2-84d0-513ab5384d6b
 - alterId: 0
   cipher: auto
   name: 13|🇨🇦 加拿大
@@ -93,4 +93,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: e8ded539-8adf-414e-bddf-79fb8ef62527
+  uuid: 7842b21e-8f1d-4f4a-b47c-a1398228a428
