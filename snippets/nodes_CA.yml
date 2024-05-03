@@ -75,7 +75,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 27ca9fcc-1141-43d4-a336-5a8bad1586dc
+  uuid: d66fa09e-a76f-4530-9d2c-e9695407d0a8
 - alterId: 0
   cipher: auto
   name: '13|Channel id: @ShadowProxy66 🇨🇦'
@@ -317,4 +317,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 244e1fc9-da19-4586-8bdd-21257b9f797b
+  uuid: 9f294288-338d-42ac-9c62-b94195743519
