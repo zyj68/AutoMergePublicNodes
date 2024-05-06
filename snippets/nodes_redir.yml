@@ -4,20 +4,6 @@ proxies:
   name: 1|_US_->_DE__1
   network: ws
   port: 2052
-  server: 104.19.250.15
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  ws-opts:
-    headers:
-      host: helanv6cf.inekokkk.top
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 1|_US_->_DE__2
-  network: ws
-  port: 2052
   server: cfcdn1.sanfencdn9.com
   skip-cert-verify: true
   tls: false
@@ -43,6 +29,48 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
 - alterId: 0
   cipher: auto
+  name: 1|_US_->_FR__1
+  network: ws
+  port: 2082
+  server: 104.21.8.157
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 1|_KR_->_RU_
+  network: ws
+  port: 60999
+  server: 210.87.195.254
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e8c6eb94-0c48-49de-c3eb-e305a26d1074
+  ws-opts:
+    headers:
+      host: tg.dns68.9669.link
+    path: /TG@dns68
+- alterId: 0
+  cipher: auto
+  name: 1|_US_->_DE__2
+  network: ws
+  port: 2052
+  server: 104.18.19.191
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
+  ws-opts:
+    headers:
+      host: helanv6cf.inekokkk.top
+    path: /
+- alterId: 0
+  cipher: auto
   name: 1|_US_->_DE__3
   network: ws
   port: 2052
@@ -57,31 +85,17 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 1|_US_->_IN_
+  name: 1|_US_->_FR__2
   network: ws
-  port: 2052
-  server: hk.wish.ml
+  port: 2082
+  server: 172.67.130.140
   skip-cert-verify: true
   tls: false
   type: vmess
-  uuid: 543f15f1-96a8-4205-b4a2-1a1ae6766c12
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
   ws-opts:
     headers:
-      host: in3.wish.ml
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 1|_US_->_DE__4
-  network: ws
-  port: 2052
-  server: 104.18.19.191
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  ws-opts:
-    headers:
-      host: helanv6cf.inekokkk.top
+      host: s1c.v2.v001sss.xyz
     path: /
 - name: 1|_CN_->_DE_
   network: tcp
