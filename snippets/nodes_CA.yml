@@ -291,7 +291,7 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: cd297be5-a6fd-4e53-bea6-495cee24ad2f
+  uuid: c7fed950-9ef9-4c60-80f3-0281168203f4
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
